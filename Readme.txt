@@ -21,7 +21,3 @@ Sample content for hotkey.txt:
 (This will set the hotkey to number 0)
 
 Also some of you have told me you wanna tip me so I won't say no, here's my paypal crap if you wanna do it (it's not necessary, this mod is free, only do this if you wanna waste money): [Paypal crap in case you wanna waste money](https://www.paypal.me/zealottomato)
-
-How to enable the camera mod:
-![mod1](https://github.com/user-attachments/assets/f8df7625-69ad-4757-b4ff-a4113cec13d6)
-![mod2](https://github.com/user-attachments/assets/f954a208-8965-484e-b5d6-93792d0b95b4)
